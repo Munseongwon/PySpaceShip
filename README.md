@@ -25,7 +25,7 @@
 <br>
 
 > **게임 로직**
-<img src="spaceship.drawio.png" alt="Logic of Game" width="300px" height="400px">
+<img src="spaceship.drawio.png" alt="Logic of Game" width="500px" height="500px">
 
 ## 시연영상
 https://www.youtube.com/watch?v=yIvdFoJGK4U
